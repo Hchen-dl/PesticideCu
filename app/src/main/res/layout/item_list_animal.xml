@@ -19,14 +19,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20sp"
-        android:paddLeft="8dp"
+        android:paddingLeft="8dp"
         android:text="aaa" />
     <TextView
         android:id="@+id/txt_aSpeak"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="bbb"
-        android:paddLeft="8px"
+        android:paddingLeft="8px"
         android:textSize="14sp"/>
 </LinearLayout>
 
